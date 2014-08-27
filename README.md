@@ -1,5 +1,7 @@
 Description
 -----------
+[![Build Status](https://travis-ci.org/pepin82/geometry.svg?branch=master)](https://travis-ci.org/pepin82/geometry/)
+
 Point In Polygon Algorithm, based on Michaël Niessen implementation [http://assemblysys.com/php-point-in-polygon-algorithm/]
 
 Usage
