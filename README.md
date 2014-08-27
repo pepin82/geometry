@@ -1,1 +1,1 @@
-Point In Polygon Algorithm, based on Michaël Niessen [http://assemblysys.com/php-point-in-polygon-algorithm/] implementation
+Point In Polygon Algorithm, based on Michaël Niessen implementation [http://assemblysys.com/php-point-in-polygon-algorithm/]
