@@ -43,7 +43,7 @@ class Polygon {
                 if ($xinters == $point->getX()) {
                     return true;
                 }
-                if ($vertex1->getX() == $vertex2->getX() || $point->getY() <= $xinters) {
+                if ($vertex1->getX() == $vertex2->getX() || $point->getX() <= $xinters) {
                     $intersections++;
                 }
             }
