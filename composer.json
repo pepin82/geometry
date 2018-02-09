@@ -1,7 +1,7 @@
 {
     "name": "pepin82/geometry",
     "description": "point-in-polygon algorithm",
-    "license": "GNU GPL V3",
+    "license": "MIT",
     "authors": [
         {
             "name": "Andrés Sendra",
